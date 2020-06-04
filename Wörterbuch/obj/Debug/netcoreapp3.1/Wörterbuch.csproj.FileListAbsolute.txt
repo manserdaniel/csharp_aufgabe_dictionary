@@ -1,0 +1,13 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.AssemblyInfo.cs
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\bin\Debug\netcoreapp3.1\Wörterbuch.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\bin\Debug\netcoreapp3.1\Wörterbuch.deps.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\bin\Debug\netcoreapp3.1\Wörterbuch.runtimeconfig.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\bin\Debug\netcoreapp3.1\Wörterbuch.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\bin\Debug\netcoreapp3.1\Wörterbuch.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\bin\Debug\netcoreapp3.1\Wörterbuch.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_4\Wörterbuch\Wörterbuch\obj\Debug\netcoreapp3.1\Wörterbuch.genruntimeconfig.cache
